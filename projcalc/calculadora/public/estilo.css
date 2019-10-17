@@ -1,0 +1,66 @@
+table{
+    color: white;
+    background-color: black;
+}
+
+table td{
+    padding: 2px;
+    height: 50px;
+    width: 50px;
+
+    font-size:30px;
+    text-align: right;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.esp{
+    padding: 5px;
+    height: 50px;
+    width: 50px;
+    font-size:20px;
+
+    color:black;
+    background-color: grey;
+    
+    border: none;
+    border-radius: 100px;
+}
+
+.zero{
+    padding: 5px;
+    height: 50px;
+    width: 100px;
+    font-size:20px;
+
+    color:white;
+    background-color: rgb(49, 49, 49);
+    
+    border: none;
+    border-radius: 100px;
+}
+
+.op{
+    padding: 5px;
+    height: 50px;
+    width: 50px;
+    font-size:20px;
+
+    color:white;
+    background-color: orangered;
+
+    border: none; 
+    border-radius: 100px; 
+}
+
+.num{
+    padding: 5px;
+    height: 50px;
+    width: 50px;
+    font-size:20px;
+
+    color:white;
+    background-color:  rgb(49, 49, 49);
+
+    border: none;
+    border-radius: 100px;
+}
